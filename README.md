@@ -1,5 +1,9 @@
 # pnpm-prisma-survival-kit
 
+Fixes for: `pnpm dlx tsc --init` not working · `ERR_PNPM_IGNORED_BUILDS` ·
+Prisma `P1001 Can't reach database server` · corrupted pnpm binary
+(`line 1: This: command not found`)
+
 A battle-tested cheatsheet for setting up **pnpm + Prisma + PostgreSQL** without falling into the same traps everyone falls into. Every "DO NOT" here is from a real error that actually broke a real project.
 
 ---
