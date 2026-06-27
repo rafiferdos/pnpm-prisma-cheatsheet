@@ -199,3 +199,10 @@ cat ~/.config/fish/config.fish | grep -i pnpm
 ## License
 
 MIT — use it, fork it, fix your own pnpm disasters with it.
+
+## Common Errors Covered
+- pnpm dlx tsc not working
+- ERR_PNPM_IGNORED_BUILDS
+- Prisma P1001 Can't reach database server
+- pnpm command not found "This"
+- pnpm approve-builds not working
